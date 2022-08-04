@@ -5,8 +5,8 @@ Some projects covers basic concepts of computer vision using opencv
 
 ## Projects To-Do List
 - [x] Face Detection
+- [x] Pose Estimation
 - [ ] Face Recognition
 - [ ] Object Detection
 - [ ] Segmentation
-- [ ] Pose Estimation
 - [ ] Road Lane Detection
